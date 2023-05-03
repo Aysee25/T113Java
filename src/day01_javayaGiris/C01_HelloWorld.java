@@ -10,6 +10,8 @@ public class C01_HelloWorld {
 
         System.out.println("Hello World");
 
+        //7
+
         /*
             Bu
             sekilde
@@ -20,6 +22,8 @@ public class C01_HelloWorld {
             yapmis olursunuz
          */
     }
+
+
 
 
 }
